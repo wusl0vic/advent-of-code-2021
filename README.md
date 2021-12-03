@@ -7,3 +7,7 @@
 ## Day 02: Dive!
 
 [Aoc02.kt](src/main/kotlin/day02/Aoc02.kt)
+
+## Day 03: Binary Diagnostic
+
+[BinaryDiagnostic.kt](src/main/kotlin/day03/BinaryDiagnostic.kt)
