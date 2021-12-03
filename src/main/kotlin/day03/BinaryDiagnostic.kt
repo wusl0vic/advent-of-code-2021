@@ -2,9 +2,9 @@ package day03
 
 import util.InputReader
 
-data class PowerConsumption(val gamma: Int, val epsilon: Int) {
+data class PowerConsumption(val ɣ: Int, val ε: Int) {
     override fun toString(): String {
-        return "Gamma $gamma, Epsilon $epsilon -> consumption = ${gamma * epsilon}"
+        return "ɣ = $ɣ, ε = $ε -> consumption = ${ɣ * ε}"
     }
 }
 
@@ -80,7 +80,7 @@ fun calculateLifeSupportRating(input: List<String>): LifeSupportRating {
 
     var co2List = input;
     for (i in 0 until len) {
-        val leastCommon = if (zeroes[i] < ones[i]) "0" else if (ones[i] < zeroes[i]) "1" else "0"
+        val leastCommon = if (zeroes[i] <= ones[i]) "0" else "1"
         co2List = co2List.filter { it[i].toString() == leastCommon }
         if (co2List.size == 1)
             break

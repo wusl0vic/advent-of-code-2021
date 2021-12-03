@@ -2,11 +2,11 @@
 
 ## Day 01: Sonar Sweep
 
-[Aoc01.kt](src/main/kotlin/day01/Aoc01.kt)
+[SonarSweep.kt](src/main/kotlin/day01/SonarSweep.kt)
 
 ## Day 02: Dive!
 
-[Aoc02.kt](src/main/kotlin/day02/Aoc02.kt)
+[Dive.kt](src/main/kotlin/day02/Dive.kt)
 
 ## Day 03: Binary Diagnostic
 
