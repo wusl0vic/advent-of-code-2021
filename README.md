@@ -11,3 +11,11 @@
 ## Day 03: Binary Diagnostic
 
 [BinaryDiagnostic.kt](src/main/kotlin/day03/BinaryDiagnostic.kt)
+
+## Day 04: Giant Squid
+
+[GiantQuid.kt](src/main/kotlin/day04/GiantSquid.kt)
+
+## Day 05: Hydrothermal Venture
+
+[HydrothermalVenture.kt](src/main/kotlin/day05/HydrothermalVenture.kt)
