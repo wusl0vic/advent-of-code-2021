@@ -19,3 +19,7 @@
 ## Day 05: Hydrothermal Venture
 
 [HydrothermalVenture.kt](src/main/kotlin/day05/HydrothermalVenture.kt)
+
+## Day 06: Lanternfish
+
+[Lanternfish.kt](src/main/kotlin/day06/Lanternfish.kt)
