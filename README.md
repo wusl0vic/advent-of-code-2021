@@ -23,3 +23,7 @@
 ## Day 06: Lanternfish
 
 [Lanternfish.kt](src/main/kotlin/day06/Lanternfish.kt)
+
+## Day 07: The Treachery of Whales
+
+[TreacheryOfWhales.kt](src/main/kotlin/day07/TreacheryOfWhales.kt)
