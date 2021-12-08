@@ -1,29 +1,14 @@
 # Advent of Code 2021
 
-## Day 01: Sonar Sweep
+## Solutions
 
-[SonarSweep.kt](src/main/kotlin/day01/SonarSweep.kt)
-
-## Day 02: Dive!
-
-[Dive.kt](src/main/kotlin/day02/Dive.kt)
-
-## Day 03: Binary Diagnostic
-
-[BinaryDiagnostic.kt](src/main/kotlin/day03/BinaryDiagnostic.kt)
-
-## Day 04: Giant Squid
-
-[GiantQuid.kt](src/main/kotlin/day04/GiantSquid.kt)
-
-## Day 05: Hydrothermal Venture
-
-[HydrothermalVenture.kt](src/main/kotlin/day05/HydrothermalVenture.kt)
-
-## Day 06: Lanternfish
-
-[Lanternfish.kt](src/main/kotlin/day06/Lanternfish.kt)
-
-## Day 07: The Treachery of Whales
-
-[TreacheryOfWhales.kt](src/main/kotlin/day07/TreacheryOfWhales.kt)
+| Day | Solution                                                             |
+|-----|----------------------------------------------------------------------|
+| 01  | [Sonar Sweep](src/main/kotlin/day01/SonarSweep.kt)                   |
+| 02  | [Dive!](src/main/kotlin/day02/Dive.kt)                               |
+| 03  | [Binary Diagnostic](src/main/kotlin/day03/BinaryDiagnostic.kt)       |
+| 04  | [Giant Squid](src/main/kotlin/day04/GiantSquid.kt)                   |
+| 05  | [Hydrothermal Vernture](src/main/kotlin/day05/HydrothermalVenture.kt) |
+| 06  | [Lanternfish](src/main/kotlin/day06/Lanternfish.kt)                  |
+| 07  | [The Treachery of Whales](src/main/kotlin/day07/TreacheryOfWhales.kt) |
+| 08  | [Seven Segment Search](src/main/kotlin/day08/SevenSegmentSearch.kt)  |
