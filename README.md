@@ -13,4 +13,5 @@
 | 07  | [The Treachery of Whales](src/main/kotlin/day07/TreacheryOfWhales.kt) |
 | 08  | [Seven Segment Search](src/main/kotlin/day08/SevenSegmentSearch.kt)   |
 | 09  | [Smoke Basin](src/main/kotlin/day09/SmokeBasin.kt)                    |
-| 10 | [Syntax Scoring](src/main/kotlin/day10/SyntaxScoring.kt)              |
+| 10  | [Syntax Scoring](src/main/kotlin/day10/SyntaxScoring.kt)              |
+| 11  | [Dumbo Octopus](src/main/kotlin/day11/DumboOctopus.kt)                |
