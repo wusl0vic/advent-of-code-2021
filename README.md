@@ -15,3 +15,5 @@
 | 09  | [Smoke Basin](src/main/kotlin/day09/SmokeBasin.kt)                    |
 | 10  | [Syntax Scoring](src/main/kotlin/day10/SyntaxScoring.kt)              |
 | 11  | [Dumbo Octopus](src/main/kotlin/day11/DumboOctopus.kt)                |
+| 12  | [Passage Pathing](src/main/kotlin/day12/PassagePathing.kt)            |
+| 13  | [Transparent Origami](src/main/kotlin/day13/TransparentOrigami.kt)    |
