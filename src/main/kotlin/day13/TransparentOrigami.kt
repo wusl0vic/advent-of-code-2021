@@ -96,11 +96,11 @@ fun fold(grid: Grid, instruction: FoldInstruction): Grid =
     }
 
 fun foldVertically(grid: Grid, pos: Int): Grid {
-    val newGrid = Array(grid.size - pos - 1) { CharArray(grid[0].size) { '.' } }
+    val newGrid = Array(grid.size - pos - 1) { CharArray(grid[0].size) { ' ' } }
     var i = grid.size - 1
     for (r in newGrid.indices) {
         for (c in grid[0].indices) {
-            newGrid[r][c] = if (grid[r][c] == '#' || grid[i][c] == '#') '#' else '.'
+            newGrid[r][c] = if (grid[r][c] == '#' || grid[i][c] == '#') '#' else ' '
         }
         i--
     }
@@ -112,7 +112,7 @@ fun foldHorizontally(grid: Grid, pos: Int): Grid {
     var i = grid[0].size - 1
     for (r in newGrid.indices) {
         for (c in newGrid[0].indices) {
-            newGrid[r][c] = if (grid[r][c] == '#' || grid[r][i] == '#') '#' else '.'
+            newGrid[r][c] = if (grid[r][c] == '#' || grid[r][i] == '#') '#' else ' '
             i--
         }
         i = grid[0].size - 1
